@@ -9,6 +9,7 @@
     $text="Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur dignissimos harum veniam at ex, recusandae ipsum nisi omnis dolorem et!";
     /* dumpo a schermo contenuto variabile e la sua lunghezza */
     var_dump($text);
+    /* dumpo a schermo la lunghezza del testo */
     var_dump(strlen($text)); 
 
     /* inserisco lunghezza testo in una variabile */
